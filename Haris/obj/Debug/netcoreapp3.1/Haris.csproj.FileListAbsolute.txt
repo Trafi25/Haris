@@ -1,0 +1,13 @@
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.csprojAssemblyReference.cache
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.AssemblyInfoInputs.cache
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.AssemblyInfo.cs
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.csproj.CoreCompileInputs.cache
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.exe
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.deps.json
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.runtimeconfig.json
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.runtimeconfig.dev.json
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.dll
+D:\paralel\Haris\Haris\bin\Debug\netcoreapp3.1\Haris.pdb
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.dll
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.pdb
+D:\paralel\Haris\Haris\obj\Debug\netcoreapp3.1\Haris.genruntimeconfig.cache
